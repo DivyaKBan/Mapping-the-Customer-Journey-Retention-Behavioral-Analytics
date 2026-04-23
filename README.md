@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/ovokpus/Customer-Segmentation/blob/main/img/customer%20segmentation.jpg" alt="Customer Segmentation Banner" width="80%">
+  <img src="https://github.com/DivyaKBan/Mapping-the-Customer-Journey-Retention-Behavioral-Analytics/blob/main/img/customer%20segmentation.jpg" alt="Customer Segmentation Banner" width="80%">
 </div>
 
 ---
@@ -135,7 +135,7 @@
 ## 🧾 Dataset Snapshot
 
 <div align="center">
-  <img src="https://github.com/ovokpus/Customer-Segmentation/blob/main/img/dataframe.jpg" alt="Dataset Overview" width="80%">
+  <img src="https://github.com/DivyaKBan/Mapping-the-Customer-Journey-Retention-Behavioral-Analytics/blob/main/img/dataframe.jpg" alt="Dataset Overview" width="80%">
 </div>
 
 ---
@@ -145,7 +145,7 @@
 ### 1️⃣ Retention Rate Heatmap
 
 <div align="center">
-  <img src="https://github.com/ovokpus/Customer-Segmentation/blob/main/img/monthly_retention_rates.jpg" width="80%">
+  <img src="https://github.com/DivyaKBan/Mapping-the-Customer-Journey-Retention-Behavioral-Analytics/blob/main/img/monthly_retention_rates.jpg" width="80%">
 </div>
 
 ---
@@ -153,7 +153,7 @@
 ### 2️⃣ Average Quantity Analysis
 
 <div align="center">
-  <img src="https://github.com/ovokpus/Customer-Segmentation/blob/main/img/avg_quantity_monthly.jpg" width="80%">
+  <img src="https://github.com/DivyaKBan/Mapping-the-Customer-Journey-Retention-Behavioral-Analytics/blob/main/img/avg_quantity_monthly.jpg" width="80%">
 </div>
 
 ---
@@ -161,7 +161,7 @@
 ### 3️⃣ Average Spending Trends
 
 <div align="center">
-  <img src="https://github.com/ovokpus/Customer-Segmentation/blob/main/img/avg_spend_monthly.jpg" width="80%">
+  <img src="https://github.com/DivyaKBan/Mapping-the-Customer-Journey-Retention-Behavioral-Analytics/blob/main/img/avg_spend_monthly.jpg" width="80%">
 </div>
 
 ---
@@ -169,7 +169,7 @@
 ## 📊 RFM Dashboard
 
 <div align="center">
-  <img src="https://github.com/ovokpus/Customer-Segmentation/blob/main/img/Dashboard.jpg" alt="RFM Dashboard" width="85%">
+  <img src="https://github.com/DivyaKBan/Mapping-the-Customer-Journey-Retention-Behavioral-Analytics/blob/main/img/Dashboard.jpg" alt="RFM Dashboard" width="85%">
 </div>
 
 ---
